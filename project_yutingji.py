@@ -1,21 +1,3 @@
-﻿# Project Option 3. Long-and-Short Investment in S&P 500 Stocks
-# Benjamen Graham Value Stock Criteria include:
-# 1) Credit rating of B+ and above
-# 2) Lowest price to book ratio
-# Of course, Goldman Sachs can also sell stocks with low credit ratings and high market-to-book at the same time
-
-# User Interface:
-# 1. The user can enter the day range (such as 2020-01-01 to 2021-09-01)
-# 2. The user can also choose the industry from the stocks in S&P 500 index
-# Within the chosen industry:
-# 3. Your code finds a list of stocks satisfying the Benjamen Graham Value Stock Criteria (Modified Altman Z-Score above A- level)
-#    and another list of stocks having a Modified Z-Score below BBB- level, both in year 2020
-# 4. Your code also finds a list of stocks with market-to-book (M2B) above 20 and another list with M2B below 2.0
-# 5. Among these four lists of stocks (high- vs low-credit rating and low- vs. high-M2B), your code will long $50,000 in a stock
-#    that is both in the high-credit list and in the low-M2B list on the first day of your chosen day range
-#    and short $50,000 in a stock that is both in the low-credit list and in the high-M2B list 
-# 6. Find one pair of stocks with the highest investment return in dollars during the chosen day range
-
 # Modified Z-Score
 # M-Z-score = 3.25 + 6.56A + 3.26B + 6.72C + 1.05D
 # A = (Current Assets - Current Liabilities) / Total Assets
