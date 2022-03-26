@@ -1,5 +1,5 @@
 
-# Best-Investment-Portfolio-in-SP500-Stocks
+# Auto-Investment-Portfolio-in-SP500-Stocks
 
 This Project was created to find best investment portoflio among stocks in S&P 500 index based on estimation.
 The estimation has two parts: the stock's modified z-score and the stock's market to book ratio.
