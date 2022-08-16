@@ -23,4 +23,5 @@ Although it was implemented in Python, it uses a tk interface for convinent usag
 ![Screenshot1](https://github.com/jytjyt05/Best-Investment-Portfolio-in-SP500-Stocks/blob/52649205b7af5f08c94e3949dfc5dd1449b6f6e8/IMG_0230.jpg)
 
 ## Sample Run
+Entering informations on the boxes at top, after execution, the result is displayed in the box at the middle right. As we can see, 
 ![Screenshot2](https://github.com/jytjyt05/Best-Investment-Portfolio-in-SP500-Stocks/blob/fe043be706c946e716fcfc2878022ce2bff296f1/IMG.png)
