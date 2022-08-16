@@ -1,7 +1,7 @@
 
 # Overview
 
-This lightweight Fintech App is created to find best investment portoflio in a given industry among stocks in S&P 500 index based on an estimation, such estimation has two parts: the stock's modified z-score and the stock's market to book ratio. The programming language is in Python, it also incorporates a tk interface for convinent usage.
+This lightweight Data Analysis, Fintech App is created to find best investment portoflio in a given industry among stocks in S&P 500 index based on an estimation, such estimation has two parts: the stock's modified z-score and the stock's market to book ratio. The programming language is in Python, it also incorporates a tk interface for convinent usage.
 
 # Features
 ```diff
